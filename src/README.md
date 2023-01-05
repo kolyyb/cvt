@@ -1,13 +1,13 @@
 # PROJET CV ONLINE THIERRY ARONOFF
 ## Développement d'un CV en ligne  
   
-  **Backend : Django
-  **Front   : React
-  **Hebergement : @home ? Heroku ?
+  *Backend : Django*  
+  **Front   : React**  
+  **Hebergement : @home ? Heroku ?**  
 
-### MODELS
+### MODELS  
 
-  * Infos  
+  **Infos**  
       name (CharField)  
       fristname (CharField)  
       email (EmailField)  
