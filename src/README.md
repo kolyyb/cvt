@@ -2,8 +2,8 @@
 ## Développement d'un CV en ligne  
   
   *Backend : Django*  
-  **Front   : React**  
-  **Hebergement : @home ? Heroku ?**  
+  *Front   : React*  
+  *Hebergement : @home ? Heroku ?*  
 
 ### MODELS  
 
@@ -15,19 +15,19 @@
       City (CharField)  
       links (URLField)  
 
-  * Profile  
+  **Profile**    
       intro (TextField)  
   
-  * Skills  
+  **Skills**  
       categories (CharField)  
       list (TextField)  
 
-  * Formations  
+  **Formations**  
       name (CharField)  
       centre (CharField)  
       date (DateField)  
 
-  * Missions  
+  **Missions**    
       client (CharField)  
       title (CharField)  
       date (DateField)  
@@ -38,7 +38,7 @@
 
 ### FONCTIONALITES  
 
-    * Envoi de mails  
+    **Envoi de mails**    
         Le recruteur doit pouvoir te contacter via un formulaire de contact   
-    * Récuperation CV  
+    **Récuperation CV**    
       Le recruteur doit pouvoir téléclacher ton CV au format PDF sécurisé  
