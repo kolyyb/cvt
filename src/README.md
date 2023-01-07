@@ -8,7 +8,7 @@
 ### MODELS  
 
   **Infos**  
-      name (CharField)  
+  - name (CharField)  
       fristname (CharField)  
       email (EmailField)  
       phone (CharField)  
@@ -16,7 +16,7 @@
       links (URLField)  
 
   **Profile**    
-      intro (TextField)  
+      - intro (TextField)  
   
   **Skills**  
       categories (CharField)  
