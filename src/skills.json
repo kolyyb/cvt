@@ -1,0 +1,92 @@
+[
+  {
+    "category": "Outils de test",
+    "skills": "Selenium",
+    "level_skill": "I"
+  },
+  {
+    "category": "Outils de test",
+    "skills": "Cucumber",
+    "level_skill": "N"
+  },
+  {
+    "category": "Outils de test",
+    "skills": "Jasmine",
+    "level_skill": "F"
+  },
+  {
+    "category": "Languages",
+    "skills": "Java",
+    "level_skill": "F"
+  },
+  {
+    "category": "Languages",
+    "skills": "HTML/CSS/Javascript",
+    "level_skill": "I"
+  },
+  {
+    "category": "Languages",
+    "skills": "Angular (8 > 12)",
+    "level_skill": "I"
+  },
+  {
+    "category": "Languages",
+    "skills": "Shell scripting",
+    "level_skill": "E"
+  },
+  {
+    "category": "Languages",
+    "skills": "ReactJS (12 > 16)",
+    "level_skill": "N"
+  },
+  {
+    "category": "Languages",
+    "skills": "NodeJS",
+    "level_skill": "I"
+  },
+  {
+    "category": "BDD",
+    "skills": "MySQL",
+    "level_skill": "I"
+  },
+  {
+    "category": "BDD",
+    "skills": "Postgresql",
+    "level_skill": "I"
+  },
+  {
+    "category": "BDD",
+    "skills": "Oracle",
+    "level_skill": "F"
+  },
+  {
+    "category": "BDD",
+    "skills": "MongoDB",
+    "level_skill": "I"
+  },
+  {
+    "category": "Ordonanceurs",
+    "skills": "$Universe",
+    "level_skill": "E"
+  },
+  {
+    "category": "Ordonanceurs",
+    "skills": "Control M",
+    "level_skill": "I"
+  },
+  {
+    "category": "Systemes",
+    "skills": "Unix / Linux",
+    "level_skill": "E"
+  },
+  {
+    "category": "Hyperviseurs",
+    "skills": "VMWare",
+    "level_skill": "F"
+  },
+  {
+    "category": "Hyperviseurs",
+    "skills": "HyperV",
+    "level_skill": "F"
+  }
+]

@@ -1,0 +1,36 @@
+Creation environnement virtuel :
+$ python3 -m venv .env
+
+Activation de l'environnement virtuel :
+$ source .env/bin/activate (linux)
+c:\ source .env/scripts/acvtivate (Windows)
+
+
+Préparation environement virtuel :
+$projects/py/ python3 -m venv .env
+$projects/py/ source .env/bin/activate (linux)
+C:\ source .env/scripts/activate (Windows)
+
+Installation de django :
+(.env)$projects/py/ pip install django==4.0
+(.env)$projects/py/ python3 -m django --version
+
+Geler les packages :
+(.env)$projects/py/ pip freeze > requirements.txt
+
+Lister le spackages installés :
+(.env)$projects/py/ pip freeze
+
+Créer un projet django :
+(.env)$projects/py/ django-admin startproject myApp
+
+Créer une application django :
+(.env)$projects/py/myApp/ python3 manage.py startapp app
+
+Dans le fichier setting.py, tableau INSTALLED_APPS rajouter l'app créée via startapp :
+'app',
+
+
+
+Update pip :
+$ pip install --upgrade pip
