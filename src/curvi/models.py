@@ -49,6 +49,7 @@ class Missions(models.Model):
     date_in = models.DateField(null=False)
     date_out = models.DateField(null=False)
     project = models.CharField(max_length=250)
+    description = models.TextField(default="")
     stack = models.TextField()
 
 

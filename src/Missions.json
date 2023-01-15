@@ -1,10 +1,74 @@
 [
   {
     "client": "SNCF",
-    "title": "Developpeur fullstack",
-    "date_in": "2022-09-01"
-    "date_out": "2022-12-25"
-    "role": "I"
-    "project": "I"
-    "stack": "I"
+    "role": "Developpeur fullstack",
+    "date_in": "2022-09-01",
+    "date_out": "2022-12-25",
+    "project": "Portail d'informations interne",
+    "description": "Dans le cadre du développement d'un portail d'information interne, redesign et ajout de nouvelles fonctionnalités.",
+    "stack": "Angular 12, Nodejs, Postgresql, RabbitMQ, microservices"
   },
+{
+    "client": "AXA",
+    "role": "Developpeur d'application",
+    "date_in": "2021-07-01",
+    "date_out": "2022-08-30",
+    "project": "Guidewire ClaimCenter",
+    "description": "Dans une équipe Agile de 15 personnes (dont 8 développeurs), ajout de nouvelles fonctionnalités autour du logiciel métier Guidewire ClaimCenter.",
+    "stack": "Java, Gradle, Azure CI, Git, Intellij"
+  },
+{
+    "client": "FSI",
+    "role": "Developpeur Fullstack",
+    "date_in": "2020-03-15",
+    "date_out": "2021-04-30",
+    "project": "Réécriture - Evolution portail existant",
+    "description": "Evolution et correction des applications existantes. Réécriture du code existant Mise en place de l'intégration continue.",
+    "stack": "Oracle, J2EE, Spring, Angular, BackbonesJS"
+  },
+{
+    "client": "IGR",
+    "role": "Développeur Fullstack",
+    "date_in": "2019-05-02",
+    "date_out": "2020-01-20",
+    "project": "Prtail d'informations",
+    "description": "Développement d'un backend en Java Spring Boot, Ajout de nouvelles fonctionnalités dans l'application Frontend",
+    "stack": "Java Spring boot, Angular 8, Elasticsearch, MySQL"
+  },
+{
+    "client": "SOGETI",
+    "role": "Consultant informatique",
+    "date_in": "2019-05-13",
+    "date_out": "2019-08-30",
+    "project": "Application mobile",
+    "description": "Développement d'une application mobile, avec React-native et Redux",
+    "stack": "Java 8, React-native, Expo"
+  },
+{
+    "client": "CREDIT MUTUEL DE BRETAGNE",
+    "role": "Developpeur d'application",
+    "date_in": "2018-01-22",
+    "date_out": "2018-05-08",
+    "project": "Applicatif metier",
+    "description": "Logiciel métier : Ajout de nouvelles fonctionnalités en AngularJS et en Java Exstream : Migration et redéveloppement des modèles créés sur l'ancienne plateforme",
+    "stack": "Linux, Jenkins, Java 6-8, Oracle, Mainframe/Cobol, Javascript, Exstream, Méthodologie Agile /SCRUM"
+  },
+{
+    "client": "EKINO FULLSIX",
+    "role": "Developpeur Backend",
+    "date_in": "2017-08-05",
+    "date_out": "2017-11-07",
+    "project": "Applicatif metier des programmes TV Canal+",
+    "description": "Participation au developpement de l’évolution de l’api cliente Résolutions de tickets, tests\nfonctionnels avec cucumber Documentation de l’api cliente avec Jsdoc et Swagger",
+    "stack": "nodejs, Redis, Varnish, Gitlab, Jenkins, JsDoc, Swagger, ExpressJs, GraphQL"
+  },
+{
+    "client": "AUTOVISUAL",
+    "role": "Developpeur Fullstack",
+    "date_in": "2017-01-02",
+    "date_out": "2017-06-21",
+    "project": "Portail comparateur de prix de vehicules",
+    "description": "Développeur FullStack JS De janvier 2017 à juin 2017 Autovisual Paris Intégration de pages (offre de services et tarification) Sécurisation des données clients et du système de paiement Intégration du module de paiement Stripe Sécurisation et limitations des accès au site (rôles/Personnas) Documentation technique (Jsdoc)",
+    "stack": "Linux, Javascript Vanilla, MarionetteJS, nodejs, bootstrap, jQuery, postgresql"
+  }
+]
