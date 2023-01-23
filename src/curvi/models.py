@@ -15,6 +15,7 @@ class Profile(models.Model):
 
 
 class Skills(models.Model):
+    mission_skill = models.ManyToManyField("Missions")
     LEVEL_SKILLS = (
         ('F', 'Fondamentaux'),
         ('N', 'Novice'),
@@ -44,6 +45,7 @@ class Training(models.Model):
 
 
 class Missions(models.Model):
+    city_mission = models.ForeignKey('Location', on_delete=models.SET_NULL, null=True)
     client = models.CharField(max_length=100)
     role = models.CharField(max_length=100)
     date_in = models.DateField(null=False)
