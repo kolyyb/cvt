@@ -8,10 +8,10 @@ L'app devra être responsive
 On doit pouvoir ajouter, modifiern supprimer les donnees.
 Dashboard des missions en attente de validation  
 
-Stack technique :  
+**Stack technique :**  
 backend : django  
 frontend : react  
-Deadline : mi février  
+Deadline : mi février**  
 
 **Le formulaire devra contenir :**
 
