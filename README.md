@@ -1,6 +1,6 @@
-## PROJET MinCRM
+# PROJET MinCRM
 
-# Permettre aux freelances de pouvoir consigner leurs appels téléphoniques, leurs messages linkedin, leurs messages mails dan sune base de données via un formulaire web.
+## Permettre aux freelances de pouvoir consigner leurs appels téléphoniques, leurs messages linkedin, leurs messages mails dan sune base de données via un formulaire web.
 
 Etude de CRM existant tel que Dollibarr mais souvent trop de modules, et on a souvent à faire à des cms ou des blogs, ce n'est pas ce que je recherche
 
@@ -13,9 +13,9 @@ backend : django
 frontend : react
 Deadline : mi février
 
-Le formulaire devra contenir :
+*Le formulaire devra contenir :*
 
-Date de l'appel
+= Date de l'appel
 Société
 Nom
 Tel
